@@ -1,0 +1,3240 @@
+dia 0/0/0 el stock es (120, 150)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 1/0/0 el stock es (185, 245)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 2/0/0 el stock es (253, 343)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 3/0/0 el stock es (319, 439)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 4/0/0 el stock es (375, 525)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 5/0/0 el stock es (442, 622)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 6/0/0 el stock es (503, 713)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 7/0/0 el stock es (564, 804)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 8/0/0 el stock es (636, 906)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 9/0/0 el stock es (691, 991)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 10/0/0 el stock es (757, 1087)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 11/0/0 el stock es (825, 1185)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 12/0/0 el stock es (879, 1269)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 13/0/0 el stock es (949, 1369)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 14/0/0 el stock es (1027, 1477)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 15/0/0 el stock es (1100, 1580)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 16/0/0 el stock es (1056, 1536)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 17/0/0 el stock es (1001, 1481)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 18/0/0 el stock es (954, 1434)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 19/0/0 el stock es (907, 1387)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 20/0/0 el stock es (861, 1341)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 21/0/0 el stock es (803, 1283)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 22/0/0 el stock es (759, 1239)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 23/0/0 el stock es (705, 1185)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 24/0/0 el stock es (645, 1125)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 25/0/0 el stock es (598, 1078)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 26/0/0 el stock es (550, 1030)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 27/0/0 el stock es (489, 969)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 28/0/0 el stock es (439, 919)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 29/0/0 el stock es (388, 868)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 0/1/0 el stock es (451, 961)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 1/1/0 el stock es (509, 1049)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 2/1/0 el stock es (569, 1139)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 3/1/0 el stock es (631, 1231)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 4/1/0 el stock es (708, 1338)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 5/1/0 el stock es (773, 1433)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 6/1/0 el stock es (837, 1527)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 7/1/0 el stock es (889, 1609)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 8/1/0 el stock es (956, 1706)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 9/1/0 el stock es (1025, 1805)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 10/1/0 el stock es (1089, 1899)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 11/1/0 el stock es (1164, 2004)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 12/1/0 el stock es (1224, 2094)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 13/1/0 el stock es (1286, 2186)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 14/1/0 el stock es (1351, 2281)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 15/1/0 el stock es (1416, 2376)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 16/1/0 el stock es (1347, 2307)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 17/1/0 el stock es (1293, 2253)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 18/1/0 el stock es (1233, 2193)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 19/1/0 el stock es (1188, 2148)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 20/1/0 el stock es (1125, 2085)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 21/1/0 el stock es (1077, 2037)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 22/1/0 el stock es (1026, 1986)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 23/1/0 el stock es (983, 1943)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 24/1/0 el stock es (920, 1880)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 25/1/0 el stock es (857, 1817)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 26/1/0 el stock es (810, 1770)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 27/1/0 el stock es (751, 1711)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 28/1/0 el stock es (704, 1664)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 29/1/0 el stock es (649, 1609)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 0/2/0 el stock es (728, 1718)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 1/2/0 el stock es (779, 1799)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 2/2/0 el stock es (839, 1889)
+LLego demanda 37 y la total es 37
+La demanda quedo en 0
+dia 3/2/0 el stock es (922, 2002)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 4/2/0 el stock es (982, 2092)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 5/2/0 el stock es (1038, 2178)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 6/2/0 el stock es (1108, 2278)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 7/2/0 el stock es (1171, 2371)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 8/2/0 el stock es (1245, 2475)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 9/2/0 el stock es (1317, 2577)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 10/2/0 el stock es (1380, 2670)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 11/2/0 el stock es (1449, 2769)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 12/2/0 el stock es (1512, 2862)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 13/2/0 el stock es (1581, 2961)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 14/2/0 el stock es (1648, 3058)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 15/2/0 el stock es (1721, 3161)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 16/2/0 el stock es (1666, 3106)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 17/2/0 el stock es (1595, 3035)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 18/2/0 el stock es (1527, 2967)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 19/2/0 el stock es (1482, 2922)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 20/2/0 el stock es (1427, 2867)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 21/2/0 el stock es (1379, 2819)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 22/2/0 el stock es (1325, 2765)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 23/2/0 el stock es (1271, 2711)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 24/2/0 el stock es (1212, 2652)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 25/2/0 el stock es (1153, 2593)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 26/2/0 el stock es (1103, 2543)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 27/2/0 el stock es (1053, 2493)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 28/2/0 el stock es (997, 2437)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 29/2/0 el stock es (948, 2388)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 0/3/0 el stock es (1012, 2482)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 1/3/0 el stock es (1077, 2577)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 2/3/0 el stock es (1151, 2681)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 3/3/0 el stock es (1219, 2779)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 4/3/0 el stock es (1271, 2861)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 5/3/0 el stock es (1341, 2961)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 6/3/0 el stock es (1405, 3055)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 7/3/0 el stock es (1456, 3136)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 8/3/0 el stock es (1513, 3223)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 9/3/0 el stock es (1572, 3312)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 10/3/0 el stock es (1632, 3402)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 11/3/0 el stock es (1698, 3498)
+LLego demanda 35 y la total es 35
+La demanda quedo en 0
+dia 12/3/0 el stock es (1783, 3613)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 13/3/0 el stock es (1847, 3707)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 14/3/0 el stock es (1900, 3790)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 15/3/0 el stock es (1966, 3886)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 16/3/0 el stock es (1908, 3828)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 17/3/0 el stock es (1845, 3765)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 18/3/0 el stock es (1792, 3712)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 19/3/0 el stock es (1726, 3646)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 20/3/0 el stock es (1676, 3596)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 21/3/0 el stock es (1624, 3544)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 22/3/0 el stock es (1570, 3490)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 23/3/0 el stock es (1508, 3428)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 24/3/0 el stock es (1444, 3364)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 25/3/0 el stock es (1386, 3306)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 26/3/0 el stock es (1317, 3237)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 27/3/0 el stock es (1269, 3189)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 28/3/0 el stock es (1225, 3145)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 29/3/0 el stock es (1166, 3086)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 0/4/0 el stock es (1242, 3192)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 1/4/0 el stock es (1297, 3277)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 2/4/0 el stock es (1346, 3356)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 3/4/0 el stock es (1401, 3441)
+LLego demanda 40 y la total es 40
+La demanda quedo en 0
+dia 4/4/0 el stock es (1481, 3551)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 5/4/0 el stock es (1544, 3644)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 6/4/0 el stock es (1605, 3735)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 7/4/0 el stock es (1665, 3825)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 8/4/0 el stock es (1736, 3926)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 9/4/0 el stock es (1796, 4016)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 10/4/0 el stock es (1851, 4101)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 11/4/0 el stock es (1910, 4190)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 12/4/0 el stock es (1985, 4295)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 13/4/0 el stock es (2043, 4383)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 14/4/0 el stock es (2116, 4486)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 15/4/0 el stock es (2185, 4585)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 16/4/0 el stock es (2132, 4532)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 17/4/0 el stock es (2070, 4470)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 18/4/0 el stock es (2022, 4422)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 19/4/0 el stock es (1963, 4363)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 20/4/0 el stock es (1897, 4297)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 21/4/0 el stock es (1849, 4249)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 22/4/0 el stock es (1793, 4193)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 23/4/0 el stock es (1742, 4142)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 24/4/0 el stock es (1688, 4088)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 25/4/0 el stock es (1626, 4026)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 26/4/0 el stock es (1570, 3970)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 27/4/0 el stock es (1501, 3901)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 28/4/0 el stock es (1446, 3846)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 29/4/0 el stock es (1383, 3783)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 0/5/0 el stock es (1461, 3891)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 1/5/0 el stock es (1510, 3970)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 2/5/0 el stock es (1576, 4066)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 3/5/0 el stock es (1647, 4167)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 4/5/0 el stock es (1719, 4269)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 5/5/0 el stock es (1779, 4359)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 6/5/0 el stock es (1840, 4450)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 7/5/0 el stock es (1895, 4535)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 8/5/0 el stock es (1965, 4635)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 9/5/0 el stock es (2042, 4742)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 10/5/0 el stock es (2104, 4834)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 11/5/0 el stock es (2157, 4917)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 12/5/0 el stock es (2215, 5005)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 13/5/0 el stock es (2289, 5109)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 14/5/0 el stock es (2341, 5191)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 15/5/0 el stock es (2398, 5278)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 16/5/0 el stock es (2338, 5218)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 17/5/0 el stock es (2287, 5167)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 18/5/0 el stock es (2236, 5116)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 19/5/0 el stock es (2172, 5052)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 20/5/0 el stock es (2122, 5002)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 21/5/0 el stock es (2065, 4945)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 22/5/0 el stock es (1999, 4879)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 23/5/0 el stock es (1948, 4828)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 24/5/0 el stock es (1890, 4770)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 25/5/0 el stock es (1827, 4707)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 26/5/0 el stock es (1774, 4654)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 27/5/0 el stock es (1717, 4597)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 28/5/0 el stock es (1651, 4531)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 29/5/0 el stock es (1599, 4479)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 0/6/0 el stock es (1660, 4570)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 1/6/0 el stock es (1726, 4666)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 2/6/0 el stock es (1791, 4761)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 3/6/0 el stock es (1858, 4858)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 4/6/0 el stock es (1914, 4944)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 5/6/0 el stock es (1976, 5036)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 6/6/0 el stock es (2053, 5143)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 7/6/0 el stock es (2117, 5237)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 8/6/0 el stock es (2176, 5326)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 9/6/0 el stock es (2236, 5416)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 10/6/0 el stock es (2312, 5522)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 11/6/0 el stock es (2383, 5623)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 12/6/0 el stock es (2446, 5716)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 13/6/0 el stock es (2515, 5815)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 14/6/0 el stock es (2583, 5913)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 15/6/0 el stock es (2650, 6010)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 16/6/0 el stock es (2600, 5960)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 17/6/0 el stock es (2537, 5897)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 18/6/0 el stock es (2486, 5846)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 19/6/0 el stock es (2418, 5778)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 20/6/0 el stock es (2357, 5717)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 21/6/0 el stock es (2303, 5663)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 22/6/0 el stock es (2255, 5615)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 23/6/0 el stock es (2198, 5558)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 24/6/0 el stock es (2147, 5507)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 25/6/0 el stock es (2097, 5457)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 26/6/0 el stock es (2046, 5406)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 27/6/0 el stock es (1980, 5340)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 28/6/0 el stock es (1928, 5288)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 29/6/0 el stock es (1876, 5236)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 0/7/0 el stock es (1939, 5329)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 1/7/0 el stock es (2009, 5429)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 2/7/0 el stock es (2087, 5537)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 3/7/0 el stock es (2154, 5634)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 4/7/0 el stock es (2212, 5722)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 5/7/0 el stock es (2281, 5821)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 6/7/0 el stock es (2332, 5902)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 7/7/0 el stock es (2410, 6010)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 8/7/0 el stock es (2486, 6116)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 9/7/0 el stock es (2550, 6210)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 10/7/0 el stock es (2612, 6302)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 11/7/0 el stock es (2662, 6382)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 12/7/0 el stock es (2725, 6475)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 13/7/0 el stock es (2781, 6561)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 14/7/0 el stock es (2847, 6657)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 15/7/0 el stock es (2920, 6760)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 16/7/0 el stock es (2860, 6700)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 17/7/0 el stock es (2808, 6648)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 18/7/0 el stock es (2762, 6602)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 19/7/0 el stock es (2714, 6554)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 20/7/0 el stock es (2659, 6499)
+LLego demanda 72 y la total es 72
+La demanda quedo en 0
+dia 21/7/0 el stock es (2587, 6427)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 22/7/0 el stock es (2524, 6364)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 23/7/0 el stock es (2481, 6321)
+LLego demanda 38 y la total es 38
+La demanda quedo en 0
+dia 24/7/0 el stock es (2443, 6283)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 25/7/0 el stock es (2398, 6238)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 26/7/0 el stock es (2345, 6185)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 27/7/0 el stock es (2275, 6115)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 28/7/0 el stock es (2211, 6051)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 29/7/0 el stock es (2149, 5989)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 0/8/0 el stock es (2225, 6095)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 1/8/0 el stock es (2282, 6182)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 2/8/0 el stock es (2346, 6276)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 3/8/0 el stock es (2409, 6369)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 4/8/0 el stock es (2460, 6450)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 5/8/0 el stock es (2511, 6531)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 6/8/0 el stock es (2574, 6624)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 7/8/0 el stock es (2641, 6721)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 8/8/0 el stock es (2708, 6818)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 9/8/0 el stock es (2766, 6906)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 10/8/0 el stock es (2826, 6996)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 11/8/0 el stock es (2881, 7081)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 12/8/0 el stock es (2951, 7181)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 13/8/0 el stock es (3019, 7279)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 14/8/0 el stock es (3094, 7384)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 15/8/0 el stock es (3160, 7480)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 16/8/0 el stock es (3105, 7425)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 17/8/0 el stock es (3050, 7370)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 18/8/0 el stock es (2999, 7319)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 19/8/0 el stock es (2956, 7276)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 20/8/0 el stock es (2899, 7219)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 21/8/0 el stock es (2829, 7149)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 22/8/0 el stock es (2768, 7088)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 23/8/0 el stock es (2707, 7027)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 24/8/0 el stock es (2664, 6984)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 25/8/0 el stock es (2594, 6914)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 26/8/0 el stock es (2536, 6856)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 27/8/0 el stock es (2474, 6794)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 28/8/0 el stock es (2431, 6751)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 29/8/0 el stock es (2365, 6685)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 0/9/0 el stock es (2433, 6783)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 1/9/0 el stock es (2485, 6865)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 2/9/0 el stock es (2546, 6956)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 3/9/0 el stock es (2623, 7063)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 4/9/0 el stock es (2692, 7162)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 5/9/0 el stock es (2744, 7244)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 6/9/0 el stock es (2814, 7344)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 7/9/0 el stock es (2867, 7427)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 8/9/0 el stock es (2929, 7519)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 9/9/0 el stock es (2992, 7612)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 10/9/0 el stock es (3054, 7704)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 11/9/0 el stock es (3118, 7798)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 12/9/0 el stock es (3185, 7895)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 13/9/0 el stock es (3246, 7986)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 14/9/0 el stock es (3315, 8085)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 15/9/0 el stock es (3365, 8165)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 16/9/0 el stock es (3298, 8098)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 17/9/0 el stock es (3247, 8047)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 18/9/0 el stock es (3184, 7984)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 19/9/0 el stock es (3120, 7920)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 20/9/0 el stock es (3054, 7854)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 21/9/0 el stock es (3009, 7809)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 22/9/0 el stock es (2945, 7745)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 23/9/0 el stock es (2898, 7698)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 24/9/0 el stock es (2836, 7636)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 25/9/0 el stock es (2786, 7586)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 26/9/0 el stock es (2732, 7532)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 27/9/0 el stock es (2678, 7478)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 28/9/0 el stock es (2624, 7424)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 29/9/0 el stock es (2571, 7371)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 0/10/0 el stock es (2634, 7464)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 1/10/0 el stock es (2696, 7556)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 2/10/0 el stock es (2763, 7653)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 3/10/0 el stock es (2827, 7747)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 4/10/0 el stock es (2894, 7844)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 5/10/0 el stock es (2957, 7937)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 6/10/0 el stock es (3019, 8029)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 7/10/0 el stock es (3074, 8114)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 8/10/0 el stock es (3144, 8214)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 9/10/0 el stock es (3197, 8297)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 10/10/0 el stock es (3250, 8380)
+LLego demanda 40 y la total es 40
+La demanda quedo en 0
+dia 11/10/0 el stock es (3330, 8490)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 12/10/0 el stock es (3383, 8573)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 13/10/0 el stock es (3440, 8660)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 14/10/0 el stock es (3509, 8759)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 15/10/0 el stock es (3564, 8844)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 16/10/0 el stock es (3515, 8795)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 17/10/0 el stock es (3469, 8749)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 18/10/0 el stock es (3416, 8696)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 19/10/0 el stock es (3359, 8639)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 20/10/0 el stock es (3292, 8572)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 21/10/0 el stock es (3225, 8505)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 22/10/0 el stock es (3166, 8446)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 23/10/0 el stock es (3113, 8393)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 24/10/0 el stock es (3062, 8342)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 25/10/0 el stock es (3007, 8287)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 26/10/0 el stock es (2949, 8229)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 27/10/0 el stock es (2885, 8165)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 28/10/0 el stock es (2839, 8119)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 29/10/0 el stock es (2777, 8057)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 0/11/0 el stock es (2831, 8141)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 1/11/0 el stock es (2891, 8231)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 2/11/0 el stock es (2942, 8312)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 3/11/0 el stock es (2991, 8391)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 4/11/0 el stock es (3054, 8484)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 5/11/0 el stock es (3105, 8565)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 6/11/0 el stock es (3180, 8670)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 7/11/0 el stock es (3245, 8765)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 8/11/0 el stock es (3308, 8858)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 9/11/0 el stock es (3371, 8951)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 10/11/0 el stock es (3434, 9044)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 11/11/0 el stock es (3505, 9145)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 12/11/0 el stock es (3573, 9243)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 13/11/0 el stock es (3639, 9339)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 14/11/0 el stock es (3702, 9432)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 15/11/0 el stock es (3767, 9527)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 16/11/0 el stock es (3715, 9475)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 17/11/0 el stock es (3653, 9413)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 18/11/0 el stock es (3594, 9354)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 19/11/0 el stock es (3536, 9296)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 20/11/0 el stock es (3469, 9229)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 21/11/0 el stock es (3410, 9170)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 22/11/0 el stock es (3352, 9112)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 23/11/0 el stock es (3303, 9063)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 24/11/0 el stock es (3239, 8999)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 25/11/0 el stock es (3191, 8951)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 26/11/0 el stock es (3142, 8902)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 27/11/0 el stock es (3083, 8843)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 28/11/0 el stock es (3030, 8790)
+LLego demanda 40 y la total es 40
+La demanda quedo en 0
+dia 29/11/0 el stock es (2990, 8750)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 0/0/1 el stock es (3059, 8849)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 1/0/1 el stock es (3134, 8954)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 2/0/1 el stock es (3193, 9043)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 3/0/1 el stock es (3250, 9130)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 4/0/1 el stock es (3311, 9221)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 5/0/1 el stock es (3363, 9303)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 6/0/1 el stock es (3423, 9393)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 7/0/1 el stock es (3491, 9491)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 8/0/1 el stock es (3547, 9577)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 9/0/1 el stock es (3618, 9678)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 10/0/1 el stock es (3691, 9781)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 11/0/1 el stock es (3754, 9874)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 12/0/1 el stock es (3820, 9970)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 13/0/1 el stock es (3882, 10062)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 14/0/1 el stock es (3956, 10166)
+LLego demanda 36 y la total es 36
+La demanda quedo en 0
+dia 15/0/1 el stock es (4040, 10280)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 16/0/1 el stock es (3980, 10220)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 17/0/1 el stock es (3936, 10176)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 18/0/1 el stock es (3883, 10123)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 19/0/1 el stock es (3833, 10073)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 20/0/1 el stock es (3777, 10017)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 21/0/1 el stock es (3720, 9960)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 22/0/1 el stock es (3673, 9913)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 23/0/1 el stock es (3616, 9856)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 24/0/1 el stock es (3560, 9800)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 25/0/1 el stock es (3519, 9759)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 26/0/1 el stock es (3472, 9712)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 27/0/1 el stock es (3409, 9649)
+LLego demanda 76 y la total es 76
+La demanda quedo en 0
+dia 28/0/1 el stock es (3333, 9573)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 29/0/1 el stock es (3292, 9532)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 0/1/1 el stock es (3367, 9637)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 1/1/1 el stock es (3431, 9731)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 2/1/1 el stock es (3489, 9819)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 3/1/1 el stock es (3555, 9915)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 4/1/1 el stock es (3616, 10006)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 5/1/1 el stock es (3681, 10101)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 6/1/1 el stock es (3750, 10200)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 7/1/1 el stock es (3823, 10303)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 8/1/1 el stock es (3880, 10390)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 9/1/1 el stock es (3954, 10494)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 10/1/1 el stock es (4005, 10575)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 11/1/1 el stock es (4056, 10656)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 12/1/1 el stock es (4120, 10750)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 13/1/1 el stock es (4191, 10851)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 14/1/1 el stock es (4263, 10953)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 15/1/1 el stock es (4327, 11047)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 16/1/1 el stock es (4260, 10980)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 17/1/1 el stock es (4201, 10921)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 18/1/1 el stock es (4143, 10863)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 19/1/1 el stock es (4089, 10809)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 20/1/1 el stock es (4036, 10756)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 21/1/1 el stock es (3982, 10702)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 22/1/1 el stock es (3928, 10648)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 23/1/1 el stock es (3870, 10590)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 24/1/1 el stock es (3809, 10529)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 25/1/1 el stock es (3745, 10465)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 26/1/1 el stock es (3688, 10408)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 27/1/1 el stock es (3635, 10355)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 28/1/1 el stock es (3589, 10309)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 29/1/1 el stock es (3523, 10243)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 0/2/1 el stock es (3585, 10335)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 1/2/1 el stock es (3659, 10439)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 2/2/1 el stock es (3728, 10538)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 3/2/1 el stock es (3802, 10642)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 4/2/1 el stock es (3875, 10745)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 5/2/1 el stock es (3935, 10835)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 6/2/1 el stock es (4004, 10934)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 7/2/1 el stock es (4065, 11025)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 8/2/1 el stock es (4134, 11124)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 9/2/1 el stock es (4189, 11209)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 10/2/1 el stock es (4266, 11316)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 11/2/1 el stock es (4332, 11412)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 12/2/1 el stock es (4398, 11508)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 13/2/1 el stock es (4469, 11609)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 14/2/1 el stock es (4528, 11698)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 15/2/1 el stock es (4603, 11803)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 16/2/1 el stock es (4556, 11756)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 17/2/1 el stock es (4487, 11687)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 18/2/1 el stock es (4422, 11622)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 19/2/1 el stock es (4371, 11571)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 20/2/1 el stock es (4330, 11530)
+LLego demanda 73 y la total es 73
+La demanda quedo en 0
+dia 21/2/1 el stock es (4257, 11457)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 22/2/1 el stock es (4203, 11403)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 23/2/1 el stock es (4154, 11354)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 24/2/1 el stock es (4096, 11296)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 25/2/1 el stock es (4042, 11242)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 26/2/1 el stock es (3986, 11186)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 27/2/1 el stock es (3935, 11135)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 28/2/1 el stock es (3874, 11074)
+LLego demanda 72 y la total es 72
+La demanda quedo en 0
+dia 29/2/1 el stock es (3802, 11002)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 0/3/1 el stock es (3866, 11096)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 1/3/1 el stock es (3927, 11187)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 2/3/1 el stock es (3985, 11275)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 3/3/1 el stock es (4060, 11380)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 4/3/1 el stock es (4132, 11482)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 5/3/1 el stock es (4197, 11577)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 6/3/1 el stock es (4257, 11667)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 7/3/1 el stock es (4316, 11756)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 8/3/1 el stock es (4370, 11840)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 9/3/1 el stock es (4440, 11940)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 10/3/1 el stock es (4501, 12031)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 11/3/1 el stock es (4563, 12123)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 12/3/1 el stock es (4636, 12226)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 13/3/1 el stock es (4698, 12318)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 14/3/1 el stock es (4747, 12397)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 15/3/1 el stock es (4807, 12487)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 16/3/1 el stock es (4757, 12437)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 17/3/1 el stock es (4699, 12379)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 18/3/1 el stock es (4651, 12331)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 19/3/1 el stock es (4597, 12277)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 20/3/1 el stock es (4548, 12228)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 21/3/1 el stock es (4499, 12179)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 22/3/1 el stock es (4437, 12117)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 23/3/1 el stock es (4379, 12059)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 24/3/1 el stock es (4331, 12011)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 25/3/1 el stock es (4276, 11956)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 26/3/1 el stock es (4224, 11904)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 27/3/1 el stock es (4172, 11852)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 28/3/1 el stock es (4125, 11805)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 29/3/1 el stock es (4079, 11759)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 0/4/1 el stock es (4149, 11859)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 1/4/1 el stock es (4215, 11955)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 2/4/1 el stock es (4278, 12048)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 3/4/1 el stock es (4330, 12130)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 4/4/1 el stock es (4386, 12216)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 5/4/1 el stock es (4455, 12315)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 6/4/1 el stock es (4514, 12404)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 7/4/1 el stock es (4589, 12509)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 8/4/1 el stock es (4660, 12610)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 9/4/1 el stock es (4726, 12706)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 10/4/1 el stock es (4790, 12800)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 11/4/1 el stock es (4845, 12885)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 12/4/1 el stock es (4903, 12973)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 13/4/1 el stock es (4962, 13062)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 14/4/1 el stock es (5032, 13162)
+LLego demanda 74 y la total es 74
+La demanda quedo en 0
+dia 15/4/1 el stock es (5078, 13238)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 16/4/1 el stock es (5024, 13184)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 17/4/1 el stock es (4982, 13142)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 18/4/1 el stock es (4925, 13085)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 19/4/1 el stock es (4873, 13033)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 20/4/1 el stock es (4824, 12984)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 21/4/1 el stock es (4778, 12938)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 22/4/1 el stock es (4725, 12885)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 23/4/1 el stock es (4673, 12833)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 24/4/1 el stock es (4624, 12784)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 25/4/1 el stock es (4574, 12734)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 26/4/1 el stock es (4506, 12666)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 27/4/1 el stock es (4455, 12615)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 28/4/1 el stock es (4408, 12568)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 29/4/1 el stock es (4344, 12504)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 0/5/1 el stock es (4406, 12596)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 1/5/1 el stock es (4479, 12699)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 2/5/1 el stock es (4545, 12795)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 3/5/1 el stock es (4605, 12885)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 4/5/1 el stock es (4673, 12983)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 5/5/1 el stock es (4744, 13084)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 6/5/1 el stock es (4813, 13183)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 7/5/1 el stock es (4881, 13281)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 8/5/1 el stock es (4953, 13383)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 9/5/1 el stock es (5022, 13482)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 10/5/1 el stock es (5083, 13573)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 11/5/1 el stock es (5141, 13661)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 12/5/1 el stock es (5204, 13754)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 13/5/1 el stock es (5267, 13847)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 14/5/1 el stock es (5332, 13942)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 15/5/1 el stock es (5402, 14042)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 16/5/1 el stock es (5333, 13973)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 17/5/1 el stock es (5275, 13915)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 18/5/1 el stock es (5220, 13860)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 19/5/1 el stock es (5172, 13812)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 20/5/1 el stock es (5128, 13768)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 21/5/1 el stock es (5065, 13705)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 22/5/1 el stock es (5015, 13655)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 23/5/1 el stock es (4968, 13608)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 24/5/1 el stock es (4918, 13558)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 25/5/1 el stock es (4864, 13504)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 26/5/1 el stock es (4813, 13453)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 27/5/1 el stock es (4759, 13399)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 28/5/1 el stock es (4714, 13354)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 29/5/1 el stock es (4666, 13306)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 0/6/1 el stock es (4726, 13396)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 1/6/1 el stock es (4796, 13496)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 2/6/1 el stock es (4850, 13580)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 3/6/1 el stock es (4914, 13674)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 4/6/1 el stock es (4973, 13763)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 5/6/1 el stock es (5046, 13866)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 6/6/1 el stock es (5115, 13965)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 7/6/1 el stock es (5172, 14052)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 8/6/1 el stock es (5234, 14144)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 9/6/1 el stock es (5294, 14234)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 10/6/1 el stock es (5346, 14316)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 11/6/1 el stock es (5412, 14412)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 12/6/1 el stock es (5484, 14514)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 13/6/1 el stock es (5545, 14605)
+LLego demanda 40 y la total es 40
+La demanda quedo en 0
+dia 14/6/1 el stock es (5625, 14715)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 15/6/1 el stock es (5682, 14802)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 16/6/1 el stock es (5630, 14750)
+LLego demanda 80 y la total es 80
+La demanda quedo en 0
+dia 17/6/1 el stock es (5550, 14670)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 18/6/1 el stock es (5501, 14621)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 19/6/1 el stock es (5438, 14558)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 20/6/1 el stock es (5367, 14487)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 21/6/1 el stock es (5315, 14435)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 22/6/1 el stock es (5260, 14380)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 23/6/1 el stock es (5195, 14315)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 24/6/1 el stock es (5134, 14254)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 25/6/1 el stock es (5080, 14200)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 26/6/1 el stock es (5018, 14138)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 27/6/1 el stock es (4962, 14082)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 28/6/1 el stock es (4905, 14025)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 29/6/1 el stock es (4854, 13974)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 0/7/1 el stock es (4916, 14066)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 1/7/1 el stock es (4987, 14167)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 2/7/1 el stock es (5046, 14256)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 3/7/1 el stock es (5114, 14354)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 4/7/1 el stock es (5173, 14443)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 5/7/1 el stock es (5230, 14530)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 6/7/1 el stock es (5294, 14624)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 7/7/1 el stock es (5351, 14711)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 8/7/1 el stock es (5403, 14793)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 9/7/1 el stock es (5471, 14891)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 10/7/1 el stock es (5535, 14985)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 11/7/1 el stock es (5593, 15073)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 12/7/1 el stock es (5667, 15177)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 13/7/1 el stock es (5732, 15272)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 14/7/1 el stock es (5794, 15364)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 15/7/1 el stock es (5854, 15454)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 16/7/1 el stock es (5801, 15401)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 17/7/1 el stock es (5747, 15347)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 18/7/1 el stock es (5696, 15296)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 19/7/1 el stock es (5644, 15244)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 20/7/1 el stock es (5587, 15187)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 21/7/1 el stock es (5538, 15138)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 22/7/1 el stock es (5477, 15077)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 23/7/1 el stock es (5423, 15023)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 24/7/1 el stock es (5363, 14963)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 25/7/1 el stock es (5306, 14906)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 26/7/1 el stock es (5246, 14846)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 27/7/1 el stock es (5195, 14795)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 28/7/1 el stock es (5128, 14728)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 29/7/1 el stock es (5083, 14683)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 0/8/1 el stock es (5151, 14781)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 1/8/1 el stock es (5208, 14868)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 2/8/1 el stock es (5276, 14966)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 3/8/1 el stock es (5340, 15060)
+LLego demanda 74 y la total es 74
+La demanda quedo en 0
+dia 4/8/1 el stock es (5386, 15136)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 5/8/1 el stock es (5450, 15230)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 6/8/1 el stock es (5523, 15333)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 7/8/1 el stock es (5583, 15423)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 8/8/1 el stock es (5643, 15513)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 9/8/1 el stock es (5706, 15606)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 10/8/1 el stock es (5765, 15695)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 11/8/1 el stock es (5833, 15793)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 12/8/1 el stock es (5889, 15879)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 13/8/1 el stock es (5958, 15978)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 14/8/1 el stock es (6030, 16080)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 15/8/1 el stock es (6096, 16176)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 16/8/1 el stock es (6029, 16109)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 17/8/1 el stock es (5967, 16047)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 18/8/1 el stock es (5901, 15981)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 19/8/1 el stock es (5850, 15930)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 20/8/1 el stock es (5790, 15870)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 21/8/1 el stock es (5729, 15809)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 22/8/1 el stock es (5671, 15751)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 23/8/1 el stock es (5614, 15694)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 24/8/1 el stock es (5562, 15642)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 25/8/1 el stock es (5495, 15575)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 26/8/1 el stock es (5424, 15504)
+LLego demanda 73 y la total es 73
+La demanda quedo en 0
+dia 27/8/1 el stock es (5351, 15431)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 28/8/1 el stock es (5295, 15375)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 29/8/1 el stock es (5245, 15325)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 0/9/1 el stock es (5307, 15417)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 1/9/1 el stock es (5365, 15505)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 2/9/1 el stock es (5428, 15598)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 3/9/1 el stock es (5483, 15683)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 4/9/1 el stock es (5546, 15776)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 5/9/1 el stock es (5602, 15862)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 6/9/1 el stock es (5668, 15958)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 7/9/1 el stock es (5723, 16043)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 8/9/1 el stock es (5800, 16150)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 9/9/1 el stock es (5866, 16246)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 10/9/1 el stock es (5934, 16344)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 11/9/1 el stock es (6003, 16443)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 12/9/1 el stock es (6063, 16533)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 13/9/1 el stock es (6121, 16621)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 14/9/1 el stock es (6187, 16717)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 15/9/1 el stock es (6250, 16810)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 16/9/1 el stock es (6194, 16754)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 17/9/1 el stock es (6137, 16697)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 18/9/1 el stock es (6071, 16631)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 19/9/1 el stock es (6011, 16571)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 20/9/1 el stock es (5960, 16520)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 21/9/1 el stock es (5894, 16454)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 22/9/1 el stock es (5830, 16390)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 23/9/1 el stock es (5779, 16339)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 24/9/1 el stock es (5721, 16281)
+LLego demanda 77 y la total es 77
+La demanda quedo en 0
+dia 25/9/1 el stock es (5644, 16204)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 26/9/1 el stock es (5587, 16147)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 27/9/1 el stock es (5531, 16091)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 28/9/1 el stock es (5462, 16022)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 29/9/1 el stock es (5405, 15965)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 0/10/1 el stock es (5464, 16054)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 1/10/1 el stock es (5531, 16151)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 2/10/1 el stock es (5598, 16248)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 3/10/1 el stock es (5660, 16340)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 4/10/1 el stock es (5717, 16427)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 5/10/1 el stock es (5785, 16525)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 6/10/1 el stock es (5852, 16622)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 7/10/1 el stock es (5906, 16706)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 8/10/1 el stock es (5956, 16786)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 9/10/1 el stock es (6013, 16873)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 10/10/1 el stock es (6074, 16964)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 11/10/1 el stock es (6133, 17053)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 12/10/1 el stock es (6192, 17142)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 13/10/1 el stock es (6264, 17244)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 14/10/1 el stock es (6337, 17347)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 15/10/1 el stock es (6394, 17434)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 16/10/1 el stock es (6347, 17387)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 17/10/1 el stock es (6282, 17322)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 18/10/1 el stock es (6221, 17261)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 19/10/1 el stock es (6169, 17209)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 20/10/1 el stock es (6112, 17152)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 21/10/1 el stock es (6059, 17099)
+LLego demanda 36 y la total es 36
+La demanda quedo en 0
+dia 22/10/1 el stock es (6023, 17063)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 23/10/1 el stock es (5968, 17008)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 24/10/1 el stock es (5909, 16949)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 25/10/1 el stock es (5842, 16882)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 26/10/1 el stock es (5794, 16834)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 27/10/1 el stock es (5723, 16763)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 28/10/1 el stock es (5667, 16707)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 29/10/1 el stock es (5609, 16649)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 0/11/1 el stock es (5678, 16748)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 1/11/1 el stock es (5740, 16840)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 2/11/1 el stock es (5815, 16945)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 3/11/1 el stock es (5880, 17040)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 4/11/1 el stock es (5951, 17141)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 5/11/1 el stock es (6026, 17246)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 6/11/1 el stock es (6084, 17334)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 7/11/1 el stock es (6144, 17424)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 8/11/1 el stock es (6217, 17527)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 9/11/1 el stock es (6294, 17634)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 10/11/1 el stock es (6359, 17729)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 11/11/1 el stock es (6424, 17824)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 12/11/1 el stock es (6493, 17923)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 13/11/1 el stock es (6558, 18018)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 14/11/1 el stock es (6620, 18110)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 15/11/1 el stock es (6685, 18205)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 16/11/1 el stock es (6619, 18139)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 17/11/1 el stock es (6572, 18092)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 18/11/1 el stock es (6514, 18034)
+LLego demanda 72 y la total es 72
+La demanda quedo en 0
+dia 19/11/1 el stock es (6442, 17962)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 20/11/1 el stock es (6390, 17910)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 21/11/1 el stock es (6337, 17857)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 22/11/1 el stock es (6279, 17799)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 23/11/1 el stock es (6225, 17745)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 24/11/1 el stock es (6168, 17688)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 25/11/1 el stock es (6104, 17624)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 26/11/1 el stock es (6043, 17563)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 27/11/1 el stock es (5994, 17514)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 28/11/1 el stock es (5948, 17468)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 29/11/1 el stock es (5884, 17404)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 0/0/2 el stock es (5963, 17513)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 1/0/2 el stock es (6022, 17602)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 2/0/2 el stock es (6089, 17699)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 3/0/2 el stock es (6160, 17800)
+LLego demanda 81 y la total es 81
+La demanda quedo en 0
+dia 4/0/2 el stock es (6199, 17869)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 5/0/2 el stock es (6266, 17966)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 6/0/2 el stock es (6328, 18058)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 7/0/2 el stock es (6387, 18147)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 8/0/2 el stock es (6449, 18239)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 9/0/2 el stock es (6500, 18320)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 10/0/2 el stock es (6578, 18428)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 11/0/2 el stock es (6633, 18513)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 12/0/2 el stock es (6685, 18595)
+LLego demanda 80 y la total es 80
+La demanda quedo en 0
+dia 13/0/2 el stock es (6725, 18665)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 14/0/2 el stock es (6798, 18768)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 15/0/2 el stock es (6862, 18862)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 16/0/2 el stock es (6810, 18810)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 17/0/2 el stock es (6746, 18746)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 18/0/2 el stock es (6689, 18689)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 19/0/2 el stock es (6628, 18628)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 20/0/2 el stock es (6581, 18581)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 21/0/2 el stock es (6530, 18530)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 22/0/2 el stock es (6465, 18465)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 23/0/2 el stock es (6398, 18398)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 24/0/2 el stock es (6338, 18338)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 25/0/2 el stock es (6288, 18288)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 26/0/2 el stock es (6234, 18234)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 27/0/2 el stock es (6176, 18176)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 28/0/2 el stock es (6116, 18116)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 29/0/2 el stock es (6058, 18058)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 0/1/2 el stock es (6121, 18151)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 1/1/2 el stock es (6178, 18238)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 2/1/2 el stock es (6241, 18331)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 3/1/2 el stock es (6299, 18419)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 4/1/2 el stock es (6356, 18506)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 5/1/2 el stock es (6422, 18602)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 6/1/2 el stock es (6475, 18685)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 7/1/2 el stock es (6530, 18770)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 8/1/2 el stock es (6592, 18862)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 9/1/2 el stock es (6655, 18955)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 10/1/2 el stock es (6725, 19055)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 11/1/2 el stock es (6790, 19150)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 12/1/2 el stock es (6845, 19235)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 13/1/2 el stock es (6914, 19334)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 14/1/2 el stock es (6988, 19438)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 15/1/2 el stock es (7060, 19540)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 16/1/2 el stock es (7007, 19487)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 17/1/2 el stock es (6950, 19430)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 18/1/2 el stock es (6889, 19369)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 19/1/2 el stock es (6834, 19314)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 20/1/2 el stock es (6778, 19258)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 21/1/2 el stock es (6726, 19206)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 22/1/2 el stock es (6655, 19135)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 23/1/2 el stock es (6594, 19074)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 24/1/2 el stock es (6535, 19015)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 25/1/2 el stock es (6494, 18974)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 26/1/2 el stock es (6428, 18908)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 27/1/2 el stock es (6376, 18856)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 28/1/2 el stock es (6331, 18811)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 29/1/2 el stock es (6271, 18751)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 0/2/2 el stock es (6332, 18842)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 1/2/2 el stock es (6406, 18946)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 2/2/2 el stock es (6475, 19045)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 3/2/2 el stock es (6529, 19129)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 4/2/2 el stock es (6603, 19233)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 5/2/2 el stock es (6670, 19330)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 6/2/2 el stock es (6725, 19415)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 7/2/2 el stock es (6797, 19517)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 8/2/2 el stock es (6875, 19625)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 9/2/2 el stock es (6944, 19724)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 10/2/2 el stock es (7020, 19830)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 11/2/2 el stock es (7074, 19914)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 12/2/2 el stock es (7142, 20012)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 13/2/2 el stock es (7213, 20113)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 14/2/2 el stock es (7273, 20203)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 15/2/2 el stock es (7342, 20302)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 16/2/2 el stock es (7283, 20243)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 17/2/2 el stock es (7221, 20181)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 18/2/2 el stock es (7169, 20129)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 19/2/2 el stock es (7112, 20072)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 20/2/2 el stock es (7057, 20017)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 21/2/2 el stock es (7007, 19967)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 22/2/2 el stock es (6942, 19902)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 23/2/2 el stock es (6882, 19842)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 24/2/2 el stock es (6834, 19794)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 25/2/2 el stock es (6783, 19743)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 26/2/2 el stock es (6714, 19674)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 27/2/2 el stock es (6662, 19622)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 28/2/2 el stock es (6619, 19579)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 29/2/2 el stock es (6561, 19521)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 0/3/2 el stock es (6639, 19629)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 1/3/2 el stock es (6704, 19724)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 2/3/2 el stock es (6765, 19815)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 3/3/2 el stock es (6834, 19914)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 4/3/2 el stock es (6901, 20011)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 5/3/2 el stock es (6961, 20101)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 6/3/2 el stock es (7030, 20200)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 7/3/2 el stock es (7100, 20300)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 8/3/2 el stock es (7164, 20394)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 9/3/2 el stock es (7216, 20476)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 10/3/2 el stock es (7280, 20570)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 11/3/2 el stock es (7350, 20670)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 12/3/2 el stock es (7415, 20765)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 13/3/2 el stock es (7473, 20853)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 14/3/2 el stock es (7552, 20962)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 15/3/2 el stock es (7623, 21063)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 16/3/2 el stock es (7561, 21001)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 17/3/2 el stock es (7510, 20950)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 18/3/2 el stock es (7454, 20894)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 19/3/2 el stock es (7399, 20839)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 20/3/2 el stock es (7338, 20778)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 21/3/2 el stock es (7282, 20722)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 22/3/2 el stock es (7224, 20664)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 23/3/2 el stock es (7174, 20614)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 24/3/2 el stock es (7120, 20560)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 25/3/2 el stock es (7070, 20510)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 26/3/2 el stock es (7012, 20452)
+LLego demanda 38 y la total es 38
+La demanda quedo en 0
+dia 27/3/2 el stock es (6974, 20414)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 28/3/2 el stock es (6932, 20372)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 29/3/2 el stock es (6885, 20325)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 0/4/2 el stock es (6949, 20419)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 1/4/2 el stock es (7016, 20516)
+LLego demanda 71 y la total es 71
+La demanda quedo en 0
+dia 2/4/2 el stock es (7065, 20595)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 3/4/2 el stock es (7140, 20700)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 4/4/2 el stock es (7212, 20802)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 5/4/2 el stock es (7280, 20900)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 6/4/2 el stock es (7349, 20999)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 7/4/2 el stock es (7413, 21093)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 8/4/2 el stock es (7468, 21178)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 9/4/2 el stock es (7537, 21277)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 10/4/2 el stock es (7601, 21371)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 11/4/2 el stock es (7662, 21462)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 12/4/2 el stock es (7719, 21549)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 13/4/2 el stock es (7793, 21653)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 14/4/2 el stock es (7847, 21737)
+LLego demanda 43 y la total es 43
+La demanda quedo en 0
+dia 15/4/2 el stock es (7924, 21844)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 16/4/2 el stock es (7878, 21798)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 17/4/2 el stock es (7829, 21749)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 18/4/2 el stock es (7767, 21687)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 19/4/2 el stock es (7711, 21631)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 20/4/2 el stock es (7648, 21568)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 21/4/2 el stock es (7600, 21520)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 22/4/2 el stock es (7537, 21457)
+LLego demanda 41 y la total es 41
+La demanda quedo en 0
+dia 23/4/2 el stock es (7496, 21416)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 24/4/2 el stock es (7437, 21357)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 25/4/2 el stock es (7374, 21294)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 26/4/2 el stock es (7306, 21226)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 27/4/2 el stock es (7259, 21179)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 28/4/2 el stock es (7206, 21126)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 29/4/2 el stock es (7152, 21072)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 0/5/2 el stock es (7219, 21169)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 1/5/2 el stock es (7287, 21267)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 2/5/2 el stock es (7355, 21365)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 3/5/2 el stock es (7420, 21460)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 4/5/2 el stock es (7490, 21560)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 5/5/2 el stock es (7551, 21651)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 6/5/2 el stock es (7609, 21739)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 7/5/2 el stock es (7671, 21831)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 8/5/2 el stock es (7723, 21913)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 9/5/2 el stock es (7777, 21997)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 10/5/2 el stock es (7849, 22099)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 11/5/2 el stock es (7914, 22194)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 12/5/2 el stock es (7968, 22278)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 13/5/2 el stock es (8033, 22373)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 14/5/2 el stock es (8098, 22468)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 15/5/2 el stock es (8167, 22567)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 16/5/2 el stock es (8110, 22510)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 17/5/2 el stock es (8054, 22454)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 18/5/2 el stock es (7990, 22390)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 19/5/2 el stock es (7939, 22339)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 20/5/2 el stock es (7893, 22293)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 21/5/2 el stock es (7844, 22244)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 22/5/2 el stock es (7797, 22197)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 23/5/2 el stock es (7750, 22150)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 24/5/2 el stock es (7704, 22104)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 25/5/2 el stock es (7645, 22045)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 26/5/2 el stock es (7583, 21983)
+LLego demanda 42 y la total es 42
+La demanda quedo en 0
+dia 27/5/2 el stock es (7541, 21941)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 28/5/2 el stock es (7484, 21884)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 29/5/2 el stock es (7438, 21838)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 0/6/2 el stock es (7502, 21932)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 1/6/2 el stock es (7565, 22025)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 2/6/2 el stock es (7625, 22115)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 3/6/2 el stock es (7690, 22210)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 4/6/2 el stock es (7762, 22312)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 5/6/2 el stock es (7818, 22398)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 6/6/2 el stock es (7884, 22494)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 7/6/2 el stock es (7939, 22579)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 8/6/2 el stock es (8006, 22676)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 9/6/2 el stock es (8070, 22770)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 10/6/2 el stock es (8142, 22872)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 11/6/2 el stock es (8202, 22962)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 12/6/2 el stock es (8267, 23057)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 13/6/2 el stock es (8324, 23144)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 14/6/2 el stock es (8387, 23237)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 15/6/2 el stock es (8455, 23335)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 16/6/2 el stock es (8398, 23278)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 17/6/2 el stock es (8344, 23224)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 18/6/2 el stock es (8288, 23168)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 19/6/2 el stock es (8228, 23108)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 20/6/2 el stock es (8165, 23045)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 21/6/2 el stock es (8107, 22987)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 22/6/2 el stock es (8047, 22927)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 23/6/2 el stock es (7995, 22875)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 24/6/2 el stock es (7944, 22824)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 25/6/2 el stock es (7883, 22763)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 26/6/2 el stock es (7831, 22711)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 27/6/2 el stock es (7779, 22659)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 28/6/2 el stock es (7713, 22593)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 29/6/2 el stock es (7657, 22537)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 0/7/2 el stock es (7721, 22631)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 1/7/2 el stock es (7795, 22735)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 2/7/2 el stock es (7854, 22824)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 3/7/2 el stock es (7913, 22913)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 4/7/2 el stock es (7971, 23001)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 5/7/2 el stock es (8038, 23098)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 6/7/2 el stock es (8101, 23191)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 7/7/2 el stock es (8162, 23282)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 8/7/2 el stock es (8215, 23365)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 9/7/2 el stock es (8291, 23471)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 10/7/2 el stock es (8364, 23574)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 11/7/2 el stock es (8419, 23659)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 12/7/2 el stock es (8475, 23745)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 13/7/2 el stock es (8540, 23840)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 14/7/2 el stock es (8594, 23924)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 15/7/2 el stock es (8659, 24019)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 16/7/2 el stock es (8611, 23971)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 17/7/2 el stock es (8548, 23908)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 18/7/2 el stock es (8493, 23853)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 19/7/2 el stock es (8435, 23795)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 20/7/2 el stock es (8388, 23748)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 21/7/2 el stock es (8327, 23687)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 22/7/2 el stock es (8272, 23632)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 23/7/2 el stock es (8218, 23578)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 24/7/2 el stock es (8166, 23526)
+LLego demanda 75 y la total es 75
+La demanda quedo en 0
+dia 25/7/2 el stock es (8091, 23451)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 26/7/2 el stock es (8035, 23395)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 27/7/2 el stock es (7971, 23331)
+LLego demanda 44 y la total es 44
+La demanda quedo en 0
+dia 28/7/2 el stock es (7927, 23287)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 29/7/2 el stock es (7882, 23242)
+LLego demanda 77 y la total es 77
+La demanda quedo en 0
+dia 0/8/2 el stock es (7925, 23315)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 1/8/2 el stock es (8000, 23420)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 2/8/2 el stock es (8063, 23513)
+LLego demanda 40 y la total es 40
+La demanda quedo en 0
+dia 3/8/2 el stock es (8143, 23623)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 4/8/2 el stock es (8218, 23728)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 5/8/2 el stock es (8290, 23830)
+LLego demanda 38 y la total es 38
+La demanda quedo en 0
+dia 6/8/2 el stock es (8372, 23942)
+LLego demanda 72 y la total es 72
+La demanda quedo en 0
+dia 7/8/2 el stock es (8420, 24020)
+LLego demanda 73 y la total es 73
+La demanda quedo en 0
+dia 8/8/2 el stock es (8467, 24097)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 9/8/2 el stock es (8530, 24190)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 10/8/2 el stock es (8589, 24279)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 11/8/2 el stock es (8654, 24374)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 12/8/2 el stock es (8709, 24459)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 13/8/2 el stock es (8778, 24558)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 14/8/2 el stock es (8847, 24657)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 15/8/2 el stock es (8916, 24756)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 16/8/2 el stock es (8850, 24690)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 17/8/2 el stock es (8788, 24628)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 18/8/2 el stock es (8725, 24565)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 19/8/2 el stock es (8671, 24511)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 20/8/2 el stock es (8623, 24463)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 21/8/2 el stock es (8574, 24414)
+LLego demanda 73 y la total es 73
+La demanda quedo en 0
+dia 22/8/2 el stock es (8501, 24341)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 23/8/2 el stock es (8452, 24292)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 24/8/2 el stock es (8391, 24231)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 25/8/2 el stock es (8343, 24183)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 26/8/2 el stock es (8295, 24135)
+LLego demanda 75 y la total es 75
+La demanda quedo en 0
+dia 27/8/2 el stock es (8220, 24060)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 28/8/2 el stock es (8162, 24002)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 29/8/2 el stock es (8097, 23937)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 0/9/2 el stock es (8155, 24025)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 1/9/2 el stock es (8222, 24122)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 2/9/2 el stock es (8289, 24219)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 3/9/2 el stock es (8348, 24308)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 4/9/2 el stock es (8410, 24400)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 5/9/2 el stock es (8464, 24484)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 6/9/2 el stock es (8529, 24579)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 7/9/2 el stock es (8586, 24666)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 8/9/2 el stock es (8642, 24752)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 9/9/2 el stock es (8706, 24846)
+LLego demanda 76 y la total es 76
+La demanda quedo en 0
+dia 10/9/2 el stock es (8750, 24920)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 11/9/2 el stock es (8823, 25023)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 12/9/2 el stock es (8888, 25118)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 13/9/2 el stock es (8946, 25206)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 14/9/2 el stock es (9019, 25309)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 15/9/2 el stock es (9077, 25397)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 16/9/2 el stock es (9023, 25343)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 17/9/2 el stock es (8967, 25287)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 18/9/2 el stock es (8909, 25229)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 19/9/2 el stock es (8853, 25173)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 20/9/2 el stock es (8790, 25110)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 21/9/2 el stock es (8744, 25064)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 22/9/2 el stock es (8681, 25001)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 23/9/2 el stock es (8618, 24938)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 24/9/2 el stock es (8570, 24890)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 25/9/2 el stock es (8508, 24828)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 26/9/2 el stock es (8452, 24772)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 27/9/2 el stock es (8399, 24719)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 28/9/2 el stock es (8334, 24654)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 29/9/2 el stock es (8276, 24596)
+LLego demanda 63 y la total es 63
+La demanda quedo en 0
+dia 0/10/2 el stock es (8333, 24683)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 1/10/2 el stock es (8400, 24780)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 2/10/2 el stock es (8471, 24881)
+LLego demanda 47 y la total es 47
+La demanda quedo en 0
+dia 3/10/2 el stock es (8544, 24984)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 4/10/2 el stock es (8611, 25081)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 5/10/2 el stock es (8683, 25183)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 6/10/2 el stock es (8738, 25268)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 7/10/2 el stock es (8806, 25366)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 8/10/2 el stock es (8871, 25461)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 9/10/2 el stock es (8939, 25559)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 10/10/2 el stock es (9003, 25653)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 11/10/2 el stock es (9058, 25738)
+LLego demanda 66 y la total es 66
+La demanda quedo en 0
+dia 12/10/2 el stock es (9112, 25822)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 13/10/2 el stock es (9183, 25923)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 14/10/2 el stock es (9241, 26011)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 15/10/2 el stock es (9310, 26110)
+LLego demanda 68 y la total es 68
+La demanda quedo en 0
+dia 16/10/2 el stock es (9242, 26042)
+LLego demanda 50 y la total es 50
+La demanda quedo en 0
+dia 17/10/2 el stock es (9192, 25992)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 18/10/2 el stock es (9147, 25947)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 19/10/2 el stock es (9092, 25892)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 20/10/2 el stock es (9043, 25843)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 21/10/2 el stock es (8992, 25792)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 22/10/2 el stock es (8934, 25734)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
+dia 23/10/2 el stock es (8885, 25685)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 24/10/2 el stock es (8829, 25629)
+LLego demanda 57 y la total es 57
+La demanda quedo en 0
+dia 25/10/2 el stock es (8772, 25572)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 26/10/2 el stock es (8720, 25520)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 27/10/2 el stock es (8659, 25459)
+LLego demanda 48 y la total es 48
+La demanda quedo en 0
+dia 28/10/2 el stock es (8611, 25411)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 29/10/2 el stock es (8550, 25350)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 0/11/2 el stock es (8617, 25447)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 1/11/2 el stock es (8679, 25539)
+LLego demanda 69 y la total es 69
+La demanda quedo en 0
+dia 2/11/2 el stock es (8730, 25620)
+LLego demanda 45 y la total es 45
+La demanda quedo en 0
+dia 3/11/2 el stock es (8805, 25725)
+LLego demanda 60 y la total es 60
+La demanda quedo en 0
+dia 4/11/2 el stock es (8865, 25815)
+LLego demanda 58 y la total es 58
+La demanda quedo en 0
+dia 5/11/2 el stock es (8927, 25907)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 6/11/2 el stock es (8994, 26004)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 7/11/2 el stock es (9058, 26098)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 8/11/2 el stock es (9126, 26196)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 9/11/2 el stock es (9185, 26285)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 10/11/2 el stock es (9246, 26376)
+LLego demanda 70 y la total es 70
+La demanda quedo en 0
+dia 11/11/2 el stock es (9296, 26456)
+LLego demanda 55 y la total es 55
+La demanda quedo en 0
+dia 12/11/2 el stock es (9361, 26551)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 13/11/2 el stock es (9430, 26650)
+LLego demanda 64 y la total es 64
+La demanda quedo en 0
+dia 14/11/2 el stock es (9486, 26736)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 15/11/2 el stock es (9544, 26824)
+LLego demanda 65 y la total es 65
+La demanda quedo en 0
+dia 16/11/2 el stock es (9479, 26759)
+LLego demanda 59 y la total es 59
+La demanda quedo en 0
+dia 17/11/2 el stock es (9420, 26700)
+LLego demanda 51 y la total es 51
+La demanda quedo en 0
+dia 18/11/2 el stock es (9369, 26649)
+LLego demanda 67 y la total es 67
+La demanda quedo en 0
+dia 19/11/2 el stock es (9302, 26582)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 20/11/2 el stock es (9241, 26521)
+LLego demanda 56 y la total es 56
+La demanda quedo en 0
+dia 21/11/2 el stock es (9185, 26465)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 22/11/2 el stock es (9123, 26403)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 23/11/2 el stock es (9062, 26342)
+LLego demanda 46 y la total es 46
+La demanda quedo en 0
+dia 24/11/2 el stock es (9016, 26296)
+LLego demanda 62 y la total es 62
+La demanda quedo en 0
+dia 25/11/2 el stock es (8954, 26234)
+LLego demanda 52 y la total es 52
+La demanda quedo en 0
+dia 26/11/2 el stock es (8902, 26182)
+LLego demanda 54 y la total es 54
+La demanda quedo en 0
+dia 27/11/2 el stock es (8848, 26128)
+LLego demanda 61 y la total es 61
+La demanda quedo en 0
+dia 28/11/2 el stock es (8787, 26067)
+LLego demanda 53 y la total es 53
+La demanda quedo en 0
+dia 29/11/2 el stock es (8734, 26014)
+LLego demanda 49 y la total es 49
+La demanda quedo en 0
