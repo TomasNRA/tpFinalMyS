@@ -51,13 +51,13 @@ def run_day(env,deposito):
         env.process(solicitar_autopartes(env,deposito))
         yield env.timeout(np.random.exponential(scale=1/0.0972)) #0.0972 sale de dividir 70 por la jornada laboral
 
-def fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2):
-    return stock_auto_parte1+152, stock_auto_parte2+152
+def fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2):
+    return stock_auto_parte1+produccion_diaria_autoparte1, stock_auto_parte2+produccion_diaria_autoparte2
 
-def main():
+def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autoparte1=120, produccion_diaria_autoparte2=150):
     horas_max = 12
     jornada_laboral = horas_max*60
-    num_operarios_deposito = 3
+    num_operarios_deposito = cantidad_operarios
     global stock_auto_parte1
     global stock_auto_parte2
     global demanda
@@ -68,8 +68,8 @@ def main():
                 for dia in range(30):
                     env = simpy.Environment()
                     deposito = Deposito(env, num_operarios_deposito)
-                    if dia <= 13:
-                        stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2)
+                    if dia <= dias_produccion:
+                        stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2)
                     print(f'dia {dia}/{mes}/{anio} el stock es {stock_auto_parte1,stock_auto_parte2}')
                     env.process(run_day(env,deposito))
                     env.run(until=jornada_laboral)
@@ -77,4 +77,4 @@ def main():
     print(f'{unidades_totales=}')
 
 if __name__ == '__main__':
-    main()
+    simular()
