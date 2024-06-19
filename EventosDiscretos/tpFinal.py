@@ -26,7 +26,7 @@ class Deposito(object):
             demanda -= 1
             yield self.env.timeout(np.random.exponential(scale=8)+np.random.exponential(scale=12))
         else:
-            print('me quede sin stock')
+            # print('me quede sin stock')
             yield self.no_hay_stock
 
 def solicitar_autopartes(env,deposito):
@@ -38,7 +38,7 @@ def solicitar_autopartes(env,deposito):
 
 def run_day(env,deposito):
     global demanda
-    print(f'Al comenzar el dia, la demanda es: {demanda}')
+    # print(f'Al comenzar el dia, la demanda es: {demanda}')
 
     #Si arranca el dia con demanda insatisfecha, se etiende 
     if demanda > 0:
@@ -63,18 +63,29 @@ def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autopart
     global demanda
     global unidades_totales
 
-    for anio in range(3):
+    unidades_totales_por_mes = []
+    stock_auto_parte1_por_mes = []
+    stock_auto_parte2_por_mes = []
+
+    for anio in range(1):
             for mes in range(12):
+                print(f"Mes {mes+1} del anio {anio+1}")
                 for dia in range(30):
                     env = simpy.Environment()
                     deposito = Deposito(env, num_operarios_deposito)
                     if dia <= dias_produccion:
                         stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2)
-                    print(f'dia {dia}/{mes}/{anio} el stock es {stock_auto_parte1,stock_auto_parte2}')
+                    # print(f'dia {dia}/{mes}/{anio} el stock es {stock_auto_parte1,stock_auto_parte2}')
                     env.process(run_day(env,deposito))
                     env.run(until=jornada_laboral)
-                    print(f'La demanda quedo en {demanda}')
-    print(f'{unidades_totales=}')
+                    # print(f'La demanda quedo en {demanda}')
+
+                    if dia == 29:
+                        unidades_totales_por_mes.append(unidades_totales)
+                        stock_auto_parte1_por_mes.append(stock_auto_parte1)
+                        stock_auto_parte2_por_mes.append(stock_auto_parte2)
+
+    return unidades_totales_por_mes, stock_auto_parte1_por_mes, stock_auto_parte2_por_mes
 
 if __name__ == '__main__':
     simular()

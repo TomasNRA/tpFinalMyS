@@ -22,8 +22,10 @@ def read_root(simulacion: Simulacion):
     produccion_diaria_autoparte1 = simulacion.produccion_diaria_autoparte1
     produccion_diaria_autoparte2 = simulacion.produccion_diaria_autoparte2
 
-    data = simular(cantidad_operarios, dias_produccion, produccion_diaria_autoparte1, produccion_diaria_autoparte2)
+    unidades_totales_por_mes, stock_auto_parte1_por_mes, stock_auto_parte2_por_mes = simular(cantidad_operarios, dias_produccion, produccion_diaria_autoparte1, produccion_diaria_autoparte2)
 
     return {
-        "simulacion finalizada"
+        "unidades_totales_por_mes": unidades_totales_por_mes, 
+        "stock_auto_parte1_por_mes": stock_auto_parte1_por_mes, 
+        "stock_auto_parte2_por_mes": stock_auto_parte2_por_mes
     }
