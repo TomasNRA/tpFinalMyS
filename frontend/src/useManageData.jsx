@@ -9,6 +9,8 @@ export default function useManageData() {
   const [datasetPromedioEsperaMensual, setDatasetPromedioEsperaMensual] = useState([]);
   const [datasetTiempoSinStock, setDatasetTiempoSinStock] = useState([]);
 
+  const [simulaciones, setSimulaciones] = useState([]);
+
   const [isLoading, setIsLoading] = useState(false);
 
   const colores = [
@@ -87,34 +89,50 @@ export default function useManageData() {
     setDatasetTiempoSinStock([...datasetTiempoSinStock, nuevoDatasetTiempoSinStock]);
   }
 
-  const simular = async (cantidadAutopartes1, cantidadAutopartes2, diasProduccion, cantidadOperarios) => {
-    try {
-      setIsLoading(true);
-      const request = {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          "cantidad_operarios": cantidadOperarios,
-          "produccion_diaria_autoparte1": cantidadAutopartes1,
-          "produccion_diaria_autoparte2": cantidadAutopartes2,
-          "dias_produccion": diasProduccion
-        })
-      }
-
-      const response = await fetch('http://localhost:8000/simular', request);
-      const data = await response.json();
-
-      createDatasets(data)
-      setHayDatosCargados(true);
-      
-    } catch (error) {
-      console.error(error);
-    } finally {
-      setIsLoading(false);
-    }
+  const agregarSimulacion = (cantidadOperarios, cantidadAutopartes1, cantidadAutopartes2, diasProduccion) => {
+    setSimulaciones([...simulaciones, {
+      cantidadOperarios,
+      cantidadAutopartes1,
+      cantidadAutopartes2,
+      diasProduccion
+    }]);
   }
 
-  return { datasets, simular, isLoading, hayDatosCargados }
-}
+    const simular = async (cantidadAutopartes1, cantidadAutopartes2, diasProduccion, cantidadOperarios) => {
+      try {
+        setIsLoading(true);
+        const request = {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            "cantidad_operarios": cantidadOperarios,
+            "produccion_diaria_autoparte1": cantidadAutopartes1,
+            "produccion_diaria_autoparte2": cantidadAutopartes2,
+            "dias_produccion": diasProduccion
+          })
+        }
+
+        const response = await fetch('http://localhost:8000/simular', request);
+        const data = await response.json();
+
+        agregarSimulacion(
+          cantidadOperarios,
+          cantidadAutopartes1,
+          cantidadAutopartes2,
+          diasProduccion
+        );
+
+        createDatasets(data)
+        setHayDatosCargados(true);
+
+      } catch (error) {
+        console.error(error);
+      } finally {
+        setIsLoading(false);
+      }
+    }
+
+    return { datasets, simulaciones, simular, isLoading, hayDatosCargados }
+  }
