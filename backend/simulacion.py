@@ -1,3 +1,7 @@
+""" Se esta utilizando la libreria simpy para manejar a los empleados
+del deposito como recursos
+ """
+
 import simpy
 import numpy as np
 from queue import Queue
@@ -11,6 +15,8 @@ demanda = Queue()
 demanda_satisfecha_mensual = 0
 tiempo_espera_mensual = 0
 unidades_totales = 0
+produccion_diaria_autoparte1 = 0
+produccion_diaria_autoparte2 = 0
 
 class Deposito(object):
     def __init__(self, env, num_operarios):
@@ -30,7 +36,6 @@ class Deposito(object):
             yield self.env.timeout(np.random.exponential(scale=8)+np.random.exponential(scale=12))
             tiempo_espera_mensual += ((tiempo_actual+timedelta(minutes=self.env.now)) - tiempo_demanda).total_seconds()/60
         else:
-            print('me quede sin stock')
             yield self.no_hay_stock
 
 def solicitar_autopartes(env,deposito,tiempo_actual):
@@ -46,8 +51,6 @@ def solicitar_autopartes(env,deposito,tiempo_actual):
 def run_day(env,deposito,fecha_actual):
     global demanda
     operario_max_pedidos = 50 #cantidad mayor al tope de pedidos que puede atender un operario
-
-    print(f'Al comenzar el dia, la demanda es: {demanda.qsize()}')
     control = 0
     #Si arranca el dia con demanda insatisfecha, se atiende
     if demanda.qsize() > 0:
@@ -61,15 +64,19 @@ def run_day(env,deposito,fecha_actual):
     while True:
         demanda.put(fecha_actual+timedelta(minutes=env.now))
         env.process(solicitar_autopartes(env,deposito,fecha_actual))
-        yield env.timeout(np.random.exponential(scale=1/0.0972))
+        yield env.timeout(np.random.exponential(scale=1/0.0972)) #0.0972 sale de dividir 70 por la jornada laboral
 
-def fabricarAutoPartes(stock_auto_parte1, stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2):
-    return stock_auto_parte1 + produccion_diaria_autoparte1, stock_auto_parte2 + produccion_diaria_autoparte2
+def fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2):
 
-def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autoparte1=120, produccion_diaria_autoparte2=150):
+    global produccion_diaria_autoparte1
+    global produccion_diaria_autoparte2
+
+    return stock_auto_parte1+produccion_diaria_autoparte1, stock_auto_parte2+produccion_diaria_autoparte2
+
+def simular(cantidad_operarios=2, dias_produccion=15, cantidad_diaria_autoparte1=120, cantidad_diaria_autoparte2=150):
     start_date = date(2024, 6, 1)
     horas_max = 12
-    jornada_laboral = horas_max * 60
+    jornada_laboral = horas_max*60
     num_operarios_deposito = cantidad_operarios
     global stock_auto_parte1
     global stock_auto_parte2
@@ -77,6 +84,17 @@ def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autopart
     global unidades_totales
     global demanda_satisfecha_mensual
     global tiempo_espera_mensual
+
+    demanda = Queue()
+
+    print(f"Iniciando simulación. La demanda actual es:")
+    print(demanda.qsize())
+
+    global produccion_diaria_autoparte1
+    global produccion_diaria_autoparte2
+
+    produccion_diaria_autoparte1 = cantidad_diaria_autoparte1
+    produccion_diaria_autoparte2 = cantidad_diaria_autoparte2
 
     unidades_totales_por_mes = []
     stock_auto_parte1_por_mes = []
@@ -95,21 +113,16 @@ def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autopart
                 env = simpy.Environment()
                 deposito = Deposito(env, num_operarios_deposito)
                 if dia <= (mes+ timedelta(days=dias_produccion)): ##parametrizar
-                    stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2,produccion_diaria_autoparte1,produccion_diaria_autoparte2)
-                print(f'dia {dia} el stock es {stock_auto_parte1,stock_auto_parte2}')
+                    stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2)
                 if stock_auto_parte1 and stock_auto_parte2 == 0:
                     dias_sin_stock += 1
                 env.process(run_day(env,deposito,dia))
                 env.run(until=jornada_laboral)
-                print(f'La demanda quedo en {demanda.qsize()}')
-            print(f'Tiempo de espera {tiempo_espera_mensual} y demanda satisfecha por mes {demanda_satisfecha_mensual}')
-            print(f'Tiempo de espera mensual promedio {tiempo_espera_mensual/demanda_satisfecha_mensual} minutos')
 
             unidades_totales_por_mes.append(unidades_totales)
             stock_auto_parte1_por_mes.append(stock_auto_parte1)
             stock_auto_parte2_por_mes.append(stock_auto_parte2)
-            promedio_tiempo_espera_por_mes.append(tiempo_espera_mensual/demanda_satisfecha_mensual)
-        print(f'Dias sin stock {dias_sin_stock}')
+            promedio_tiempo_espera_por_mes.append(tiempo_espera_mensual/demanda_satisfecha_mensual) #esto esta expresado en minutos 
         porcentaje_tiempo_sin_stock_por_año.append(dias_sin_stock/3.65) #esto es un porcentaje anual
 
     return unidades_totales_por_mes, stock_auto_parte1_por_mes, stock_auto_parte2_por_mes, porcentaje_tiempo_sin_stock_por_año, promedio_tiempo_espera_por_mes
