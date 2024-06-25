@@ -49,12 +49,18 @@ def solicitar_autopartes(env,deposito,tiempo_actual):
 
 def run_day(env,deposito,fecha_actual):
     global demanda
-    print(f'Al comenzar el dia, la demanda es: {demanda.qsize()}')
+    operario_max_pedidos = 50 #mas que esto es imposible en un dia
 
-    #Si arranca el dia con demanda insatisfecha, se etiende 
+    print(f'Al comenzar el dia, la demanda es: {demanda.qsize()}')
+    control = 0
+    #Si arranca el dia con demanda insatisfecha, se atiende si tengo stock
     if demanda.qsize() > 0:
         for algo in range(demanda.qsize()):
             env.process(solicitar_autopartes(env,deposito,fecha_actual))
+            control += 1
+            if control >= operario_max_pedidos*deposito.operario.capacity:
+                print(f'la cantidad de de control max es:{operario_max_pedidos*deposito.operario.capacity}')
+                break
 
     #Se va generando demanda con un tiempo entre llegadas con una distribucion exponencial
     while True:
@@ -63,13 +69,13 @@ def run_day(env,deposito,fecha_actual):
         yield env.timeout(np.random.exponential(scale=1/0.0972)) #0.0972 sale de dividir 70 por la jornada laboral
 
 def fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2):
-    return stock_auto_parte1+148, stock_auto_parte2+148
+    return stock_auto_parte1+200, stock_auto_parte2+100
 
 def main():
     start_date = date(2024, 6, 1)
     horas_max = 12
     jornada_laboral = horas_max*60
-    num_operarios_deposito = 3
+    num_operarios_deposito = 1
     global stock_auto_parte1
     global stock_auto_parte2
     global demanda
@@ -93,7 +99,7 @@ def main():
             for dia in rrule(DAILY,dtstart=mes,until=end_date):
                 env = simpy.Environment()
                 deposito = Deposito(env, num_operarios_deposito)
-                if dia <= (mes+ timedelta(days=14)): ##parametrizar
+                if dia <= (mes+ timedelta(days=9)): ##parametrizar
                     stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2)
                 print(f'dia {dia} el stock es {stock_auto_parte1,stock_auto_parte2}')
                 if stock_auto_parte1 and stock_auto_parte2 == 0:
