@@ -49,17 +49,16 @@ def solicitar_autopartes(env,deposito,tiempo_actual):
 
 def run_day(env,deposito,fecha_actual):
     global demanda
-    operario_max_pedidos = 50 #mas que esto es imposible en un dia
+    operario_max_pedidos = 50 #cantidad mayor al tope de pedidos que puede atender un operario
 
     print(f'Al comenzar el dia, la demanda es: {demanda.qsize()}')
     control = 0
-    #Si arranca el dia con demanda insatisfecha, se atiende si tengo stock
+    #Si arranca el dia con demanda insatisfecha, se atiende
     if demanda.qsize() > 0:
         for algo in range(demanda.qsize()):
             env.process(solicitar_autopartes(env,deposito,fecha_actual))
             control += 1
             if control >= operario_max_pedidos*deposito.operario.capacity:
-                print(f'la cantidad de de control max es:{operario_max_pedidos*deposito.operario.capacity}')
                 break
 
     #Se va generando demanda con un tiempo entre llegadas con una distribucion exponencial
