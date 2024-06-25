@@ -114,7 +114,7 @@ def simular(cantidad_operarios=2, dias_produccion=15, cantidad_diaria_autoparte1
                 deposito = Deposito(env, num_operarios_deposito)
                 if dia <= (mes+ timedelta(days=dias_produccion)): ##parametrizar
                     stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2)
-                if stock_auto_parte1 and stock_auto_parte2 == 0:
+                if stock_auto_parte1 == 0 or stock_auto_parte2 == 0:
                     dias_sin_stock += 1
                 env.process(run_day(env,deposito,dia))
                 env.run(until=jornada_laboral)
