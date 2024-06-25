@@ -86,6 +86,11 @@ def simular(cantidad_operarios=2, dias_produccion=15, cantidad_diaria_autoparte1
     global tiempo_espera_mensual
 
     demanda = Queue()
+    stock_auto_parte1 = 0
+    stock_auto_parte2 = 0
+    unidades_totales = 0
+    demanda_satisfecha_mensual = 0
+    tiempo_espera_mensual = 0
 
     print(f"Iniciando simulación. La demanda actual es:")
     print(demanda.qsize())
