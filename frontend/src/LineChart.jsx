@@ -23,12 +23,7 @@ ChartJS.register(
   Legend
 );
 
-export default function LineChart({datasets, title}) {
-
-  useEffect(() => {
-    console.log(datasets)
-  }, [datasets])
-  
+export default function LineChart({datasets, title, cantidadDatos = 36}) {
 
   
   const options = {
@@ -42,14 +37,22 @@ export default function LineChart({datasets, title}) {
         text: title,
       },
     },
+    scales: {
+      y: {
+        beginAtZero: true,
+        min: 0,
+      },
+    },
   };
 
   const data = {
-    labels: Array.from({ length: 36 }, (_, i) => i + 1),
+    labels: Array.from({ length: cantidadDatos }, (_, i) => i + 1),
     datasets: datasets,
   };
 
   return (
-    <Line data={data} options={options} />
+    <section>
+      <Line data={data} options={options} />
+    </section>
   )
 }

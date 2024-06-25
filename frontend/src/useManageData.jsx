@@ -2,11 +2,12 @@ import { useState } from "react";
 
 export default function useManageData() {
 
-
   const [hayDatosCargados, setHayDatosCargados] = useState(false);
   const [datasetsUnidadesTotales, setDatasetsUnidadesTotales] = useState([]);
   const [datasetsAutoparte1, setDatasetsAutoparte1] = useState([]);
   const [datasetsAutoparte2, setDatasetsAutoparte2] = useState([]);
+  const [datasetPromedioEsperaMensual, setDatasetPromedioEsperaMensual] = useState([]);
+  const [datasetTiempoSinStock, setDatasetTiempoSinStock] = useState([]);
 
   const [isLoading, setIsLoading] = useState(false);
 
@@ -27,6 +28,8 @@ export default function useManageData() {
     unidadesTotales: datasetsUnidadesTotales,
     autoparte1: datasetsAutoparte1,
     autoparte2: datasetsAutoparte2,
+    promedioEsperaMensual: datasetPromedioEsperaMensual,
+    tiemposSinStock: datasetTiempoSinStock
   }
 
   const createDatasets = (data) => {
@@ -63,6 +66,25 @@ export default function useManageData() {
 
     setDatasetsAutoparte2([...datasetsAutoparte2, nuevoDatasetAutoparte2]);
 
+    const nuevoDatasetPromedioEsperaMensual = {
+      label: `Simulacion ${nroSimulacion}`,
+      data: data.promedio_tiempo_espera_por_mes,
+      borderColor: colores[nroSimulacion - 1],
+      backgroundColor: colores[nroSimulacion - 1],
+      fill: false,
+    }
+
+    setDatasetPromedioEsperaMensual([...datasetPromedioEsperaMensual, nuevoDatasetPromedioEsperaMensual]);
+
+    const nuevoDatasetTiempoSinStock = {
+      label: `Simulacion ${nroSimulacion}`,
+      data: data.porcentaje_tiempo_sin_stock_por_año,
+      borderColor: colores[nroSimulacion - 1],
+      backgroundColor: colores[nroSimulacion - 1],
+      fill: false,
+    }
+
+    setDatasetTiempoSinStock([...datasetTiempoSinStock, nuevoDatasetTiempoSinStock]);
   }
 
   const simular = async (cantidadAutopartes1, cantidadAutopartes2, diasProduccion, cantidadOperarios) => {
@@ -81,7 +103,7 @@ export default function useManageData() {
         })
       }
 
-      const response = await fetch('http://localhost:8000/random', request);
+      const response = await fetch('http://localhost:8000/simular', request);
       const data = await response.json();
 
       createDatasets(data)

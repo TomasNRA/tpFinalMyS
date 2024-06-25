@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 export default function SimulacionForm({simular}) {
-  const [cantidadAutopartes1, setCantidadAutopartes1] = useState(0);
-  const [cantidadAutopartes2, setCantidadAutopartes2] = useState(0);
-  const [diasProduccion, setDiasProduccion] = useState(0);
-  const [cantidadOperarios, setCantidadOperarios] = useState(0);
+  const [cantidadAutopartes1, setCantidadAutopartes1] = useState(1);
+  const [cantidadAutopartes2, setCantidadAutopartes2] = useState(1);
+  const [diasProduccion, setDiasProduccion] = useState(1);
+  const [cantidadOperarios, setCantidadOperarios] = useState(1);
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -13,7 +13,7 @@ export default function SimulacionForm({simular}) {
 
   return (
     <form onSubmit={handleSubmit} className="simulacionForm">
-      <h1>Simulación de producción de autopartes</h1>
+      <h1 className="form-title">Simulación de producción de autopartes 🚗⚙️</h1>
 
       <div>
         <fieldset>
@@ -23,7 +23,7 @@ export default function SimulacionForm({simular}) {
             id="cantidadAutopartes1"
             value={cantidadAutopartes1}
             onChange={(e) => setCantidadAutopartes1(e.target.value)}
-            min={0}
+            min={1}
           />
         </fieldset>
 
@@ -34,7 +34,7 @@ export default function SimulacionForm({simular}) {
             id="cantidadAutopartes2"
             value={cantidadAutopartes2}
             onChange={(e) => setCantidadAutopartes2(e.target.value)}
-            min={0}
+            min={1}
           />
         </fieldset>
 
@@ -45,7 +45,7 @@ export default function SimulacionForm({simular}) {
             id="diasProduccion"
             value={diasProduccion}
             onChange={(e) => setDiasProduccion(e.target.value)}
-            min={0}
+            min={1}
           />
         </fieldset>
 
@@ -56,7 +56,7 @@ export default function SimulacionForm({simular}) {
             id="cantidadOperarios"
             value={cantidadOperarios}
             onChange={(e) => setCantidadOperarios(e.target.value)}
-            min={0}
+            min={1}
           />
         </fieldset>
       </div>
