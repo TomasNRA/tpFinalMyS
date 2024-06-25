@@ -1,7 +1,3 @@
-""" Se esta utilizando la libreria simpy para manejar a los empleados
-del deposito como recursos
- """
-
 import simpy
 import numpy as np
 from queue import Queue
@@ -49,12 +45,17 @@ def solicitar_autopartes(env,deposito,tiempo_actual):
 
 def run_day(env,deposito,fecha_actual):
     global demanda
-    print(f'Al comenzar el dia, la demanda es: {demanda.qsize()}')
+    operario_max_pedidos = 50 #cantidad mayor al tope de pedidos que puede atender un operario
 
-    #Si arranca el dia con demanda insatisfecha, se etiende 
+    print(f'Al comenzar el dia, la demanda es: {demanda.qsize()}')
+    control = 0
+    #Si arranca el dia con demanda insatisfecha, se atiende
     if demanda.qsize() > 0:
         for algo in range(demanda.qsize()):
             env.process(solicitar_autopartes(env,deposito,fecha_actual))
+            control += 1
+            if control >= operario_max_pedidos*deposito.operario.capacity:
+                break
 
     #Se va generando demanda con un tiempo entre llegadas con una distribucion exponencial
     while True:
@@ -62,13 +63,13 @@ def run_day(env,deposito,fecha_actual):
         env.process(solicitar_autopartes(env,deposito,fecha_actual))
         yield env.timeout(np.random.exponential(scale=1/0.0972))
 
-def fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2):
-    return stock_auto_parte1+produccion_diaria_autoparte1, stock_auto_parte2+produccion_diaria_autoparte2
+def fabricarAutoPartes(stock_auto_parte1, stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2):
+    return stock_auto_parte1 + produccion_diaria_autoparte1, stock_auto_parte2 + produccion_diaria_autoparte2
 
 def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autoparte1=120, produccion_diaria_autoparte2=150):
     start_date = date(2024, 6, 1)
     horas_max = 12
-    jornada_laboral = horas_max*60
+    jornada_laboral = horas_max * 60
     num_operarios_deposito = cantidad_operarios
     global stock_auto_parte1
     global stock_auto_parte2
@@ -83,7 +84,7 @@ def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autopart
     porcentaje_tiempo_sin_stock_por_año = []
     promedio_tiempo_espera_por_mes = []
 
-    for anio in rrule(YEARLY,dtstart=start_date,count=1):
+    for anio in rrule(YEARLY,dtstart=start_date,count=3):
         dias_sin_stock = 0
         for mes in rrule(MONTHLY,dtstart=anio,count=12):
             demanda_satisfecha_mensual = 0
@@ -94,7 +95,7 @@ def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autopart
                 env = simpy.Environment()
                 deposito = Deposito(env, num_operarios_deposito)
                 if dia <= (mes+ timedelta(days=dias_produccion)): ##parametrizar
-                    stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2, produccion_diaria_autoparte1, produccion_diaria_autoparte2)
+                    stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2,produccion_diaria_autoparte1,produccion_diaria_autoparte2)
                 print(f'dia {dia} el stock es {stock_auto_parte1,stock_auto_parte2}')
                 if stock_auto_parte1 and stock_auto_parte2 == 0:
                     dias_sin_stock += 1
@@ -107,7 +108,7 @@ def simular(cantidad_operarios=2, dias_produccion=15, produccion_diaria_autopart
             unidades_totales_por_mes.append(unidades_totales)
             stock_auto_parte1_por_mes.append(stock_auto_parte1)
             stock_auto_parte2_por_mes.append(stock_auto_parte2)
-            promedio_tiempo_espera_por_mes.append(tiempo_espera_mensual/demanda_satisfecha_mensual) #esto esta expresado en minutos 
+            promedio_tiempo_espera_por_mes.append(tiempo_espera_mensual/demanda_satisfecha_mensual)
         print(f'Dias sin stock {dias_sin_stock}')
         porcentaje_tiempo_sin_stock_por_año.append(dias_sin_stock/3.65) #esto es un porcentaje anual
 
