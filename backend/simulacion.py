@@ -73,7 +73,7 @@ def fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2):
 
     return stock_auto_parte1+produccion_diaria_autoparte1, stock_auto_parte2+produccion_diaria_autoparte2
 
-def simular(cantidad_operarios=2, dias_produccion=15, cantidad_diaria_autoparte1=120, cantidad_diaria_autoparte2=150):
+def simular(cantidad_operarios=3, dias_produccion=15, cantidad_diaria_autoparte1=145, cantidad_diaria_autoparte2=145):
     start_date = date(2024, 6, 1)
     horas_max = 12
     jornada_laboral = horas_max*60
@@ -117,7 +117,7 @@ def simular(cantidad_operarios=2, dias_produccion=15, cantidad_diaria_autoparte1
             for dia in rrule(DAILY,dtstart=mes,until=end_date):
                 env = simpy.Environment()
                 deposito = Deposito(env, num_operarios_deposito)
-                if dia <= (mes+ timedelta(days=dias_produccion)): ##parametrizar
+                if dia <= (mes+ timedelta(days=dias_produccion-1)):
                     stock_auto_parte1, stock_auto_parte2 = fabricarAutoPartes(stock_auto_parte1,stock_auto_parte2)
                 if stock_auto_parte1 == 0 or stock_auto_parte2 == 0:
                     dias_sin_stock += 1
